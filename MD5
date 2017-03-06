@@ -1,10 +1,10 @@
-2f82e1d56d55a9a8c1601ac8f6bee4dc *DESCRIPTION
+a5e7a544817ce723aa395dfb017c036f *DESCRIPTION
 be18335801de2b108c63bc8ad3e753bf *NAMESPACE
 c1978a24a56436626041e3426120594a *R/funchir.R
 4e79f9e5a527780b59b462e8439c6bc9 *R/utils.R
 07b4584164c8c0f49a0655a4f5474103 *README.md
-bdd8b3e39a13e3a70d99d40b9f39035f *man/funchir-infix.Rd
-34a5ca5f84f18eee2040cc24f843f2f1 *man/funchir-plot.Rd
+c1f3e73bc469b437c8d00bb6bc39a7fb *man/funchir-infix.Rd
+534d82383324711fd07bed641c6fb3f6 *man/funchir-plot.Rd
 bed3315e38a27d717a2bcb85d558a91f *man/funchir-read.Rd
 4a17c1802d893f2c6420d0428fed5bd3 *man/funchir-table.Rd
-72688771c0af3d7c880b6bc77ef738e2 *man/funchir-utils.Rd
+4e785e364378937922b12ab67a3b6173 *man/funchir-utils.Rd
